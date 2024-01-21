@@ -1,0 +1,6 @@
+id=smartdns
+name=smartdns
+version=v1
+versionCode=1
+author=pymumu@github, shadow3aaa@github
+description=A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP。
